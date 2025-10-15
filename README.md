@@ -47,7 +47,7 @@ Publish the website in the LocalHost.
       background-color: cyan;
     }
     .cover {
-      width: 1500px;
+      width: 700px;
       height: 1000px;
       margin: 50px auto;
       padding: 30px;
@@ -55,6 +55,7 @@ Publish the website in the LocalHost.
       background: rgba(255, 250, 240, 0.9); 
       border: 5px solid blueviolet; 
       border-radius: 2%;
+      background-image:url(bg1.jpeg);
     }
     .top {
       font-size: 40px;
@@ -79,16 +80,16 @@ Publish the website in the LocalHost.
       color: violet;
     }
     .special {
-      font-size: 30px;
+      font-size: 40px;
       font-weight: bold;
-      margin-top: 200px;
+      margin-top: 480px;
       color: orangered;
       text-align: left;
     }
     .author {
-      font-size: 20px;
+      font-size: 30px;
       font-weight: bold;
-      color: black;
+      color: white;
       margin-top: 25px;
       text-align: left;
     }
@@ -97,11 +98,11 @@ Publish the website in the LocalHost.
       bottom: 30px;
       right: 20px;
       font-size: 18px;
-      color: black;
+      color: white;
     }
     .photo {
-      width: 100px;
-      height: 120px;
+      width: 150px;
+      height: 200px;
       position: absolute;
       bottom: 60px;
       right: 100px;
@@ -127,9 +128,10 @@ Publish the website in the LocalHost.
     
     <div class="special">SPECIAL EDITION</div>
     
-    <img src="c:\Users\Vivek Christo A\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\7F848746FE2599DC199A75F0D02FC3D6\WhatsApp Image 2025-10-08 at 00.24.21_0b7a6d0a.jpg" class="photo" alt="Author Photo">
+    <img src="mypic.jpg" class="photo" alt="Author Photo">
     
-    <div class="author">VIVEK CHRISTO A</div>
+    <div class="author">VIVEK CHRISTO A(25013444)</div>
+    
     <div class="sec">SEC</div>
   </div>
 </body>
@@ -138,7 +140,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (39).png>)
+![alt text](<Screenshot (55).png>)
 
 
 ## RESULT:
